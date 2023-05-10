@@ -45,7 +45,7 @@ export const config = {
     }],
     logLevel: 'silent',
     bail: 0,
-    baseUrl: 'ADRESA TESTOVANE APLIKACE',
+    baseUrl: 'https://czechitas-test-app-motyka.herokuapp.com',
     waitforTimeout: 10000,
     connectionRetryTimeout: 120000,
     connectionRetryCount: 3,
